@@ -1,0 +1,23 @@
+Project Title:
+Phishing Website Detection System Using Java
+
+Project Description:
+This project focuses on developing a phishing detection system that identifies and flags suspicious or malicious websites designed to steal sensitive user information. The system analyzes various website features such as URL structure, domain age, SSL certificate presence, and other heuristics to detect phishing attempts. The application provides a user-friendly interface where URLs can be entered, and the system returns a verdict on whether the link is safe or potentially harmful. It helps users avoid falling victim to phishing scams and raises awareness of digital security threats.
+
+My Role:
+I was responsible for designing and implementing the core detection logic using Java. I developed the URL analysis module, integrated external APIs for domain verification, and worked on the GUI using Java Swing. Additionally, I handled testing and debugging to ensure reliable performance.
+
+Challenges Overcome:
+
+Identifying effective detection criteria that balance accuracy and performance.
+Integrating real-time domain lookup and SSL validation APIs.
+Designing a clean and intuitive user interface.
+Ensuring the application handles a wide variety of URL formats and edge cases without crashing.
+
+Technologies Used:
+
+Java (Core Java, Java Swing)
+APIs for domain and SSL certificate verification
+HTML parsing libraries (like JSoup)
+NetBeans / Eclipse IDE
+Git for version control
